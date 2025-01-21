@@ -1,4 +1,4 @@
-# function-glue-job-bovespa
+# Function Glue job Bovespa
 
 ## Introdution
 Function trigger by S3 event and init Glue job passing arguments.
@@ -9,7 +9,7 @@ Install all dependencies:
 pip install boto3
 ```
 
-## Usage (Local)
+## Usage
 Access to clone repository:
 ```
 https://github.com/MariaPim07/bovespa_etl_function
